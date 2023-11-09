@@ -1,0 +1,50 @@
+.proyectos-container {
+    margin: 0 auto;
+    margin-top: 20px;
+    content: justify;
+    align-items: center;
+}
+
+body.proyectos {
+    background-image: url('proyectos.gif');
+}
+
+.card-text {
+    color: black;
+}
+
+.titulo-p {
+    color: white;
+    font-family:'Lucida Sans Regular';
+    text-align: center;
+}
+
+.card-body {
+    color: black;
+    text-align: center;
+}
+
+.card-text {
+    color: black;
+    text-align: center;
+}
+
+.btn {
+    color: black;
+}
+
+.card {
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 45px;
+    margin-right: 30px;
+}
+
+.card img {
+    width: 434px;
+    height: 210px;
+}
+
+.titulo-p {
+    margin-top: 35px;
+}

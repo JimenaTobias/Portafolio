@@ -1,0 +1,38 @@
+.nav {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+
+.nav a {
+  display: block;
+  transition: transform 0.2s;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  transform: scale(1.1);
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+
+    color: #ffffff;
+    transition: transform 0.2s;
+    margin-right: 40px;
+    font-family: 'Lucida Sans Regular';
+    font-size: 20px;
+    line-height: 10px;
+  }
+
+.navbar-container {
+    display: flex;
+    justify-content: right;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    color: white;
+  }
+  
+  

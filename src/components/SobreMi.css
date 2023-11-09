@@ -1,0 +1,165 @@
+.sobremi-container1 {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: bold;
+
+    display: block;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    flex-direction: column;
+    max-width: 100%;
+    padding: 16px;
+    margin: 16px;
+    margin-top: 20px;
+}
+
+.sobremi-container2 {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-decoration: none;
+  font-weight: bold;
+
+  display: block;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+  flex-direction: column;
+  max-width: 100%;
+  padding: 16px;
+  margin: 16px;
+  margin-top: 20px;
+}
+
+.sobremi-container3 {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-decoration: none;
+  font-weight: bold;
+
+  display: block;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+  flex-direction: column;
+  max-width: 100%;
+  padding: 16px;
+  margin: 16px;
+  margin-top: 20px;
+}
+
+.sobremi-container4 {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-decoration: none;
+  font-weight: bold;
+
+  display: block;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+  flex-direction: column;
+  max-width: 100%;
+  padding: 16px;
+  margin: 16px;
+  margin-top: 20px;
+}
+
+body.sobremi {
+  background-image: url('sobremi.gif');
+}
+
+.sobremi h1 {
+  color: black;
+  text-align: center;
+  font-family: 'Lucida Sans Regular';
+  margin-top: 20px;
+}
+
+.sobremi-container1 img {
+  float: left;
+  height: 145px;
+  width: 145px;
+  border-radius: 10px;
+  border-style: outset;
+  border-color: white;
+  margin-right: 10px;
+}
+
+.sobremi-container1 p {
+  color: white;
+  font-family: 'Lucida Sans';
+  font-size: 17.5px;
+}
+
+.sobremi-container1 h2 {
+  color: white;
+  font-family: 'Lucida Sans Regular';
+}
+
+.sobremi-container2 img {
+  float: left;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+  border-style: outset;
+  border-color: white;
+  margin-right: 10px;
+  margin-top: 4px;
+}
+
+.sobremi-container2 p {
+  color: white;
+  font-family: 'Lucida Sans';
+  font-size: 17.5px;
+}
+
+.sobremi-container2 h2 {
+  color: white;
+  font-family: 'Lucida Sans Regular';
+}
+
+.sobremi-container3 img {
+  float: left;
+  height: 145px;
+  width: 145px;
+  border-radius: 10px;
+  border-style: outset;
+  border-color: white;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.sobremi-container3 p {
+  color: white;
+  font-family: 'Lucida Sans';
+  font-size: 17.5px;
+}
+
+.sobremi-container3 h2 {
+  color: white;
+  font-family: 'Lucida Sans Regular';
+}
+
+.sobremi-container4 img {
+  float: left;
+  height: 115px;
+  width: 145px;
+  border-radius: 10px;
+  border-style: outset;
+  border-color: white;
+  margin-right: 10px;
+  
+}
+
+.sobremi-container4 p {
+  color: white;
+  font-family: 'Lucida Sans';
+  font-size: 17.5px;
+}
+
+.sobremi-container4 h2 {
+  color: white;
+  font-family: 'Lucida Sans Regular';
+}
